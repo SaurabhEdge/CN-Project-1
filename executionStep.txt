@@ -1,0 +1,5 @@
+*********   Steps to compile and run the file  ***********
+
+
+1) To compile the file : javac pktanalyzer.java
+2) To run the file : java pktanalyzer [File Path]
